@@ -1,0 +1,39 @@
+.list {
+    list-style: none;
+    float: left;
+ padding-right:20px;
+    padding-left: 20px;
+    background-color: dimgray;
+    color: white;
+    font-family: fantasy;
+        
+}
+.lel {
+    background-color: red;
+    color: white;
+    font-family: fantasy;
+        
+}
+#lol {
+    width: 350px;
+    height: 350px;
+}
+#PFFT {
+    width: 350px;
+    height: 350px; 
+}
+.menu {
+    color:white;
+}
+
+#img {
+    height: 120px;
+    width: 120px;
+}
+#HEHEE {
+    height 200px;
+    width: 200px;
+}
+#LELLELEL {
+    font-size: 30px;
+}
